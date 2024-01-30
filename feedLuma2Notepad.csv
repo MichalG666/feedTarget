@@ -1,11 +1,11 @@
-Column1,Column2,Column3,Column4,Column5,Column6,Column7
-## RECSRecommendations Upload File,,,,,,
+## RECSRecommendations Upload File,,,,,,,
 ## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,
-## RECS,,,,,,
+## RECS,,,,,,,
 ## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,
 ## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,
 ## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,
-## RECSentity.id,entity.name,entity.thumbnailUrl,entity.value,entity.category,entity.description,entity.categoryId
+## 
+RECSentity.id,entity.name,entity.thumbnailUrl,entity.value,entity.category,entity.description,entity.categoryId
 MH13,Marco Lightweight Active Hoodie,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/h/mh13-blue_main_2.jpg,74,Men / Tops,"<p>For cold-weather training or post-game layering, you need something more than a basic fleece. Our Marco Lightweight Active Hoodie brings both style and performance to the plate, court, or touchline. The smooth-faced, brushed-back fabric blocks wind and traps body heat, while integrated Cocona&reg, fibers pull moisture away.</p>
 <p>&bull, Light blue heather full zip hoodie.<br />&bull, Fitted flatlock seams.<br />&bull, Matching lining and drawstring. <br />&bull, Machine wash/dry.</p>",15
 MS01,Aero Daily Fitness Tee,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/s/ms01-blue_main_1.jpg,24,Men / Tops,"<p>Need an everyday action tee that helps keep you dry? The Aero Daily Fitness Tee is made of 100% polyester wicking knit that funnels moisture away from your skin. Don't be fooled by its classic style, this tee hides premium performance technology beneath its unassuming look.</p>
@@ -193,5 +193,8 @@ WSH07,Echo Fit Compression Short,https://magdev11.adobedemo.com/media/catalog/pr
 <p>&bull, Black compression shorts.<br />&bull, High-waisted cut.<br />&bull, Compression fit.<br />&bull, Inseam: 1.0"". <br />&bull, Machine wash/dry.</p>",22
 WSH06,Angel Light Running Short,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/w/s/wsh06-gray_main_1.jpg,42,Women / Bottoms,"<p>The Angel Light Running Short offers comfort in an ultra-lightweight, breathable package. With fabric infused with all-natural Cocona&reg, performance technology, it can whisk away sweat and block UV rays.</p>
 <p>&bull, Dark heather gray running shorts.<br />&bull, Snug fit. <br />&bull, Elastic waistband. <br />&bull, Cocona&reg, performance fabric. <br />&bull, Machine wash/dry.</p>",28
+WSH04,Artemis Running Short,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/w/s/wsh04-black_main_1.jpg,45,Women / Bottoms,"<p>Discover smooth jogging and chic comfort each time you slip into the Artemis Running Short. A unique maritime-inspired design and oolor theme features a stretchy drawstring waist.</p>
+<p>&bull, Black rouched shorts with mint waist. <br />&bull, Soft, lightweight construction.<br />&bull, LumaTech&trade, wicking technology.<br />&bull, Semi-fitted.</p>",28
+
 WSH04,Artemis Running Short,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/w/s/wsh04-black_main_1.jpg,45,Women / Bottoms,"<p>Discover smooth jogging and chic comfort each time you slip into the Artemis Running Short. A unique maritime-inspired design and oolor theme features a stretchy drawstring waist.</p>
 <p>&bull, Black rouched shorts with mint waist. <br />&bull, Soft, lightweight construction.<br />&bull, LumaTech&trade, wicking technology.<br />&bull, Semi-fitted.</p>",28
